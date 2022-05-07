@@ -10,6 +10,6 @@ This repository is available under the terms of the BSD license (BSD-3-Clause). 
 
 ## References
 
-(Project Oberon)[http://www.projectoberon.com/] is a collection of Oberon resources.
+[Project Oberon](http://www.projectoberon.com/) is a collection of Oberon resources.
 
 The report [The Programming Language Oberon](https://people.inf.ethz.ch/wirth/Oberon/Oberon07.Report.pdf) is used as the language specification.
