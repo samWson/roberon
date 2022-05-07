@@ -33,3 +33,7 @@ To install this gem onto your local machine, run `bundle exec rake install`. To 
 ## Contributing
 
 Bug reports and pull requests are welcome on GitHub at https://github.com/[USERNAME]/roberon.
+
+## License
+
+This repository is available under the terms of the BSD license (BSD-3-Clause). See the LICENSE file for detail.
